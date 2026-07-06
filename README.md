@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="assets/yoda-banner.png" alt="Yoda-style text generation banner" width="600"/>
+</p>
+
+
 # 🌌 English-to-Yoda Style Text Generation
+
 
 A generative AI project from a galaxy far away, this is 🛸
 
