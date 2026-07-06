@@ -1,6 +1,7 @@
 
 # 🌌 English-to-Yoda Style Text Generation
 
+Google Colab: https://colab.research.google.com/drive/1AqanRI9TwSQcCM7fOhAtGmXpbHz815YF?usp=sharing
 
 A generative AI project from a galaxy far away, this is 🛸
 
