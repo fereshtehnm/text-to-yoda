@@ -1,8 +1,6 @@
 
 # 🌌 English-to-Yoda Style Text Generation
 
-Google Colab: https://colab.research.google.com/drive/1AqanRI9TwSQcCM7fOhAtGmXpbHz815YF?usp=sharing
-
 Dataset: https://huggingface.co/datasets/dvgodoy/yoda_sentences
 
 Models: 
